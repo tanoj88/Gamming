@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Statistics and Player Performance Dashboard",
+  "description": "Interactive esports and gaming analytics dashboard for player performance evaluation, statistical distributions, correlation matrices, and data-driven insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
